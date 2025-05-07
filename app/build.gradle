@@ -44,7 +44,6 @@ dependencies {
     implementation libs.material
     implementation libs.constraintlayout
     implementation project(':mylibrary')
-    implementation project(':mylibrary')
     testImplementation libs.junit
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
